@@ -57,7 +57,7 @@ export default function Index() {
                 className="text-base md:text-lg text-white/90 mb-8 md:mb-10 max-w-2xl animate-fade-in leading-relaxed"
                 style={{ animationDelay: "0.2s" }}
               >
-                Imóveis verificados, apoio humano e total segurança na negociação
+                Propriedades autenticadas, atendimento pessoal e segurança em cada etapa da negociação
               </p>
               <div className="animate-fade-in" style={{ animationDelay: "0.4s" }}>
                 <Button

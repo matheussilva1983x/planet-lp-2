@@ -3,25 +3,25 @@ import { CheckCircle, Shield, Headphones } from "lucide-react";
 const benefits = [
   {
     icon: CheckCircle,
-    title: "Imóveis verificados",
+    title: "Propriedades autenticadas",
     description:
-      "Cada imóvel passa por uma curadoria rigorosa para garantir transparência e confiança.",
+      "Cada imóvel passa por uma curadoria exigente para assegurar transparência e confiança.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
   {
     icon: Shield,
-    title: "Segurança total",
+    title: "Segurança em cada etapa",
     description:
-      "Compra e arrendamento com segurança e acompanhamento em todas as etapas.",
+      "Compra e arrendamento com proteção e acompanhamento do início ao fim.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
   {
     icon: Headphones,
-    title: "Apoio humano",
+    title: "Atendimento pessoal",
     description:
-      "Uma equipa real, pronta para o ajudar a encontrar o imóvel certo.",
+      "Uma equipa real, pronta para o ajudar a encontrar o imóvel ideal.",
     circleBg: "bg-[#F2D5C1]",
     iconColor: "text-[#C2855E]",
   },
