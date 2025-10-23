@@ -34,7 +34,7 @@ export default function Index() {
       <section
         className="relative min-h-screen flex items-center bg-primary overflow-hidden"
         style={{
-          backgroundImage: `linear-gradient(rgba(13, 58, 46, 0.7), rgba(13, 58, 46, 0.7)), url('/vender-imovel-com-seguranca.jpg')`,
+          backgroundImage: `linear-gradient(rgba(13, 58, 46, 0.4), rgba(13, 58, 46, 0.4)), url('/vender-imovel-com-seguranca.jpg')`,
           backgroundSize: "cover",
           backgroundPosition: "center",
           backgroundAttachment: "fixed",
@@ -57,7 +57,7 @@ export default function Index() {
                 className="text-base md:text-lg text-white/90 mb-8 md:mb-10 max-w-2xl animate-fade-in leading-relaxed"
                 style={{ animationDelay: "0.2s" }}
               >
-                Imóveis verificados, apoio humano e total segurança na negociação
+                Propriedades autenticadas, atendimento pessoal e segurança em cada etapa da negociação
               </p>
               <div className="animate-fade-in" style={{ animationDelay: "0.4s" }}>
                 <Button

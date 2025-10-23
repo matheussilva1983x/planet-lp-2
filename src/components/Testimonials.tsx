@@ -3,23 +3,23 @@ import { Star } from "lucide-react";
 const testimonials = [
   {
     name: "Ana Ribeiro",
-    role: "Comprou apartamento em São Paulo",
+    role: "Comprou apartamento em Lisboa",
     text:
-      "Encontrei o meu apartamento em menos de uma semana. Apoio incrível!",
+      "Em poucos dias encontrei o meu apartamento. Atendimento impecável!",
     avatar: "https://i.pravatar.cc/80?img=15",
   },
   {
     name: "Marcos Andrade",
     role: "Arrendou em Lisboa",
     text:
-      "Processo claro e seguro. Senti-me acompanhado do início ao fim.",
+      "Processo simples e seguro, estive sempre acompanhado do início ao fim.",
     avatar: "https://i.pravatar.cc/80?img=65",
   },
   {
     name: "Camila Soares",
-    role: "Comprou casa em Florianópolis",
+    role: "Comprou casa no Porto",
     text:
-      "Equipa humana e muito atenciosa. Recomendo vivamente!",
+      "Equipa próxima e muito atenciosa. Recomendo sem reservas!",
     avatar: "https://i.pravatar.cc/80?img=3",
   },
 ];
@@ -30,10 +30,10 @@ export const Testimonials = () => {
       <div className="container mx-auto px-4">
         <div className="text-center mb-10">
           <h2 className="text-2xl md:text-4xl font-heading font-bold tracking-wide" style={{ color: "#0D3A2E" }}>
-            O que os nossos clientes dizem
+            O que dizem os nossos clientes
           </h2>
           <p className="mt-2 text-sm md:text-base" style={{ color: "#555555" }}>
-            Histórias reais que inspiram confiança
+            Relatos reais que inspiram confiança
           </p>
         </div>
 
