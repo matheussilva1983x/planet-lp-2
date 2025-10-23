@@ -6,21 +6,21 @@ const testimonials = [
     role: "Comprou apartamento em São Paulo",
     text:
       "Encontrei o meu apartamento em menos de uma semana. Apoio incrível!",
-    avatar: "https://i.pravatar.cc/80?img=47",
+    avatar: "https://i.pravatar.cc/80?img=15",
   },
   {
     name: "Marcos Andrade",
     role: "Arrendou em Lisboa",
     text:
       "Processo claro e seguro. Senti-me acompanhado do início ao fim.",
-    avatar: "https://i.pravatar.cc/80?img=12",
+    avatar: "https://i.pravatar.cc/80?img=65",
   },
   {
     name: "Camila Soares",
     role: "Comprou casa em Florianópolis",
     text:
       "Equipa humana e muito atenciosa. Recomendo vivamente!",
-    avatar: "https://i.pravatar.cc/80?img=32",
+    avatar: "https://i.pravatar.cc/80?img=3",
   },
 ];
 
